@@ -11,3 +11,7 @@ AUTHOR: Narayanan
 4. Attachments (Image, Audio, Video) Code.
 
 5. Hiding Changes Seen.
+
+6. Adding the Video feature.
+
+7. Adding the Audio feature.
