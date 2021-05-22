@@ -15,3 +15,5 @@ AUTHOR: Narayanan
 6. Adding the Video feature.
 
 7. Adding the Audio feature.
+
+8. Adding Status so that user can play train Games.
